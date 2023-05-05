@@ -1,0 +1,4 @@
+name: ZClock
+main: nukkit.ZClock.ZClock
+version: "1.0.0"
+api: ["1.0.0"]
